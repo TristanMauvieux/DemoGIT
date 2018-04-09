@@ -4,7 +4,7 @@
 1. le init.
 
   * `git init`
-  * il permet de crée le depot local
+  * il permet de créer le depot local
 
 
 2. le status.
@@ -33,5 +33,9 @@
 7. Les branch
   * `git branch`
   * le concept de branch est de faire une version de travail de votre projet. Cela permet de le segmenté. De ce fait, vous ne modifié pas la version de base (qui est sur le master la plus par convention).
+
+8. le pull
+  * `git pull`
+  * cette commande permet d'importer un projet en local.
 
 Lien vers la plateforme :octocat: [GitHub](https://github.com/TristanMauvieux/DemoGIT) ![GitHub](/image/github.png)
